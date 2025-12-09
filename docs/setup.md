@@ -4,12 +4,12 @@
 # Installation
 
 1. To install a solution pack, click **Content Hub** > **Discover**.
-2. From the list of solution pack that appears, search **Outbreak Response - React2Shell Remote Code Execution **.
-3. Click the **Outbreak Response - React2Shell Remote Code Execution ** solution pack card.
+2. From the list of solution pack that appears, search **Outbreak Response - React2Shell Remote Code Execution**.
+3. Click the **Outbreak Response - React2Shell Remote Code Execution** solution pack card.
 4. Click **Install** on the lower part of the screen to begin the installation.
 
 ## Prerequisites
-The **Outbreak Response - React2Shell Remote Code Execution ** solution pack depends on the following solution packs that are installed automatically & if not already installed.
+The **Outbreak Response - React2Shell Remote Code Execution** solution pack depends on the following solution packs that are installed automatically & if not already installed.
 
 | Name                        | Type          | Version         | Purpose                                |
 |:----------------------------|:--------------|:----------------|:---------------------------------------|
