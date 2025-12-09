@@ -3,7 +3,7 @@
 
 # Contents
 
-The **Outbreak Response - React2Shell Remote Code Execution ** solution pack contains the following resources.
+The **Outbreak Response - React2Shell Remote Code Execution** solution pack contains the following resources.
 
 ## Outbreak Alerts Record Set
 
